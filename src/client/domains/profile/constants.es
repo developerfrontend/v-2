@@ -1,0 +1,9 @@
+export const PROFILE_GET_DATA = 'api/profile/${username}';
+export const PROFILE_LOGOUT = 'api/logout';
+export const PROFILE_LOGIN = 'api/login';
+export const PROFILE_PRELOGIN = 'api/pre_login';
+export const PROFILE_REGISTER = 'api/register';
+export const PROFILE_PREREGISTER = 'api/pre_register';
+export const SUCCESS_STATUS = 200;
+export const FAILED_STATUS = 404;
+export const INVALID_STATUS = 400;

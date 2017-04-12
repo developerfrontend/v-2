@@ -1,0 +1,7 @@
+{
+    "logLevel": 4,
+    "EXPRESS": {
+        "HOST": "localhost",
+        "PORT": 8080
+    }
+}

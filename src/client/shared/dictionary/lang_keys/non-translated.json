@@ -1,0 +1,8 @@
+{
+    "KEY_MENU_LABEL_ABOUT": "About"
+    ,"KEY_HELLO_MESSAGE": "Hello, fucking world!"
+    ,"KEY_FORMATTED_HELLO_MESSAGE": "Hello, dear ${name} nigga!"
+    ,"KEY_HOME_REGISTER": "Register"
+    ,"KEY_HOME_LOGIN": "Login"
+    ,"KEY_PROFILE_LOGOUT": "Logout"
+}

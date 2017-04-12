@@ -1,0 +1,7 @@
+{
+    "rules": {
+        "no-console": "off",
+        "no-invalid-this": "off",
+        "new-cap": "off"
+    }
+}

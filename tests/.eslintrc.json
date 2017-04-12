@@ -1,0 +1,19 @@
+{
+    "env": {
+        "mocha": true
+    },
+
+    "globals": {
+        "jsdom": false,
+        "sinon": false,
+        "chai": false,
+        "expect": false,
+        "ReactTestUtils": false,
+        "stubContext": false
+    },
+    
+    "rules": {
+        "no-console": "off",
+        "id-length": ["warn", {"min":4, "max":50, "exceptions": ["CLC"]}]
+    }
+}
